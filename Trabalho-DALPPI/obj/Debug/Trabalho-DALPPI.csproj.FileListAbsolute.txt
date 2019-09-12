@@ -1,0 +1,86 @@
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.exe.config
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.exe
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.pdb
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmPrincipal.resources
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.exe
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.pdb
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE01.resources
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE02.resources
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE03.resources
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE04.resources
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE05.resources
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE01.resources
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE02.resources
+C:\Users\Lucas\Desktop\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE03.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.exe.config
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.exe
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.pdb
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.exe
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.pdb
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.csprojResolveAssemblyReference.cache
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE01.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE02.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE03.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE04.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE05.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE01.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE02.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE03.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE04.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmPrincipal.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.Properties.Resources.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.csproj.GenerateResource.Cache
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE05.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP03xE04.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP03xE01.resources
+E:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP04xE01.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.exe.config
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.exe
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.pdb
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.exe
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.pdb
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.csprojResolveAssemblyReference.cache
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE01.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE02.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE03.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE04.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE05.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE01.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE02.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE03.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE04.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE05.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP03xE01.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP03xE03.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP03xE04.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP04xE01.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmPrincipal.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.Properties.Resources.resources
+F:\Faculdade\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\13 - 26-05-2017 Trabalho\Trabalho-DALPPI\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.csproj.GenerateResource.Cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.exe.config
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.exe
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\bin\Debug\Trabalho-DALPPI.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.csprojResolveAssemblyReference.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE01.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE02.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE03.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE04.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP01xE05.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE01.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE02.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE03.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE04.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP02xE05.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP03xE01.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP03xE03.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP03xE04.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmP04xE01.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.frmPrincipal.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho_DALPPI.Properties.Resources.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.csproj.GenerateResource.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.csproj.CoreCompileInputs.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.exe
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\Trabalho\Trabalho-DALPPI Final\Trabalho-DALPPI\obj\Debug\Trabalho-DALPPI.pdb
